@@ -15,6 +15,7 @@ XAMPP control panel with Apache server and phpMyAdmin
 
 [How to host a application on Amazon Web Services] https://www.youtube.com/watch?v=hOYg-ClP84g
 
+[Homepage template] https://www.w3schools.com/w3css/tryw3css_templates_interior_design.htm#packages
 ## License
 Copyright (c) [2021] [Hrugved Pawar]
 
