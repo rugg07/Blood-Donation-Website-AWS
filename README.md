@@ -13,6 +13,8 @@ XAMPP control panel with Apache server and phpMyAdmin
 
 [Kaagle dataset of users that donated blood] https://www.kaggle.com/shivan118/blood-donation-analysis/data?select=blood-format.csv
 
+[How to host a application on Amazon Web Services] https://www.youtube.com/watch?v=hOYg-ClP84g
+
 ## License
 Copyright (c) [2021] [Hrugved Pawar]
 
