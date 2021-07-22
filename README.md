@@ -1,5 +1,10 @@
 # Portfolio
-It is a free for use project I worked upon mainly in PHP, HTML & CSS with it's implementation in the Amazon Web services. 
+It is a free for use project I worked upon mainly in PHP, HTML & CSS with it's implementation in the Amazon Web Services. 
+
+# Installation
+Amazon Web Services - free tier account (1 year)
+
+XAMPP control panel with Apache server and phpMyAdmin
 
 # Authors and acknowledgment
 [Sliding Background] https://codepen.io/chris22smith/pen/RZogMa
